@@ -19,6 +19,12 @@ _cgo_export.*
 
 _testmain.go
 
+# for OpenVPN lib
 *.exe
+
 *.test
 *.prof
+
+# Secrete file
+*.ovpn
+
